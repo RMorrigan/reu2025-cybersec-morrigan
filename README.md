@@ -4,7 +4,7 @@
 **Project Type**: Individual  
 **Student Name**: Raine Morrigan  
 **Mentor Name**: Dr. Hasan  
-**Research Title**: Exploring Coordinated Attacks of Federated Learning TinyML Protected IoT Systems 
+**Research Title**: Exploring Coordinated Attacks on ML-Enabled IoT Devices
 
 ### Project Summary
 
