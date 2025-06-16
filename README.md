@@ -9,5 +9,7 @@
 ### Project Summary
 
 ### Tools and Models Used
+Tensorflow, MobileNetV2
 
+Datasets: 
 ### Setup Instructions
